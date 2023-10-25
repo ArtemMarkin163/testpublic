@@ -9,3 +9,4 @@ cz
 xcv
 zxv
 a
+ max pidr 
